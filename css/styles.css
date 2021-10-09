@@ -113,10 +113,7 @@ body {
     color: #ff4c68;
   }
   
-  #features ul {
-    text-align: left;
-    color: #6D9886;
-}
+
  
   /* Testimonial Section */
   
@@ -159,6 +156,12 @@ body {
     line-height: 1.5;
   }
   
+.give-us {
+    text-align: left;
+    color: #6D9886;
+    margin-top: 5%;
+  }
+
   .pricing-column {
     padding: 3% 2%;
   }
